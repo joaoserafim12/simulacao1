@@ -12,4 +12,4 @@ Seleciona as opções aplicaveis
 
 ## Issue relacionada 
 
- Closes #<numero_blabla
+ Closes #<numero_de_issue>
